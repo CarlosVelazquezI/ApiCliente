@@ -1,0 +1,137 @@
+[
+  {
+    "Id": 1,
+    "NombreCiudad": "Ciudad de México",
+    "PaisId": 113
+  },
+  {
+    "Id": 2,
+    "NombreCiudad": "Guadalajara",
+    "PaisId": 113
+  },
+  {
+    "Id": 3,
+    "NombreCiudad": "Monterrey",
+    "PaisId": 113
+  },
+  {
+    "Id": 4,
+    "NombreCiudad": "Puebla",
+    "PaisId": 113
+  },
+  {
+    "Id": 5,
+    "NombreCiudad": "Tijuana",
+    "PaisId": 113
+  },
+  {
+    "Id": 6,
+    "NombreCiudad": "León",
+    "PaisId": 113
+  },
+  {
+    "Id": 7,
+    "NombreCiudad": "Mérida",
+    "PaisId": 113
+  },
+  {
+    "Id": 8,
+    "NombreCiudad": "Cancún",
+    "PaisId": 113
+  },
+  {
+    "Id": 9,
+    "NombreCiudad": "San Luis Potosí",
+    "PaisId": 113
+  },
+  {
+    "Id": 10,
+    "NombreCiudad": "Querétaro",
+    "PaisId": 113
+  },
+  {
+    "Id": 11,
+    "NombreCiudad": "Veracruz",
+    "PaisId": 113
+  },
+  {
+    "Id": 12,
+    "NombreCiudad": "Chihuahua",
+    "PaisId": 113
+  },
+  {
+    "Id": 13,
+    "NombreCiudad": "Toluca",
+    "PaisId": 113
+  },
+  {
+    "Id": 14,
+    "NombreCiudad": "Saltillo",
+    "PaisId": 113
+  },
+  {
+    "Id": 15,
+    "NombreCiudad": "Aguascalientes",
+    "PaisId": 113
+  },
+  {
+    "Id": 16,
+    "NombreCiudad": "Hermosillo",
+    "PaisId": 113
+  },
+  {
+    "Id": 17,
+    "NombreCiudad": "La Paz",
+    "PaisId": 113
+  },
+  {
+    "Id": 18,
+    "NombreCiudad": "Matamoros",
+    "PaisId": 113
+  },
+  {
+    "Id": 19,
+    "NombreCiudad": "Culiacán",
+    "PaisId": 113
+  },
+  {
+    "Id": 20,
+    "NombreCiudad": "Durango",
+    "PaisId": 113
+  },
+  {
+    "Id": 21,
+    "NombreCiudad": "Torreón",
+    "PaisId": 113
+  },
+  {
+    "Id": 22,
+    "NombreCiudad": "Colima",
+    "PaisId": 113
+  },
+  {
+    "Id": 23,
+    "NombreCiudad": "Oaxaca",
+    "PaisId": 113
+  },
+  {
+    "Id": 24,
+    "NombreCiudad": "Tuxtla Gutiérrez",
+    "PaisId": 113
+  },
+  {
+    "Id": 25,
+    "NombreCiudad": "Pachuca",
+    "PaisId": 113
+  },
+  {
+    "Id": 26,
+    "NombreCiudad": "Irapuato",
+    "PaisId": 113
+  },
+  {
+    "Id": 27,
+    "NombreCiudad": "Cabo San Lucas",
+    "PaisId": 113
+  }
+]
